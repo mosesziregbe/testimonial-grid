@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  /* Font Family  */
+  --font-sans: "Barlow Semi Condensed", sans-serif;
+
+  /* Breakpoints  */
+  --breakpoint-sm: 30rem; /* 480px */
+  --breakpoint-md: 48rem; /* 768px */
+  --breakpoint-lg: 61rem; /* 976px */
+  --breakpoint-xl: 90rem; /* 1440px */
+}
+
+@layer base {
+}
+
+@layer components {
+}
